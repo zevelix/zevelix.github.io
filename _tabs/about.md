@@ -5,7 +5,9 @@ order: 4
 ---
 ---
 
-![alt text](/assets/img/devicon--archlinux.svg)
+<a href="/assets/img/devicon--archlinux.svg" class="popup img-link left">
+  <img src="/assets/img/devicon--archlinux.svg" alt="alt text" loading="lazy">
+</a>
 ![alt text](/assets/img/devicon--bash.svg)
 ![alt text](/assets/img/devicon--elixir.svg)
 ![alt text](/assets/img/devicon--git.svg)
