@@ -6,11 +6,12 @@ order: 4
 
 ---
 
-<img src="/assets/img/devicon--archlinux.svg" alt="Arch Linux Logo" />
-<img src="/assets/img/devicon--bash.svg" alt="Bash Logo" />
-<img src="/assets/img/devicon--elixir.svg" alt="Elixir Language Logo" />
-<img src="/assets/img/devicon--git.svg" alt="Git Logo" />
-<img src="/assets/img/devicon--go.svg" alt="The Go Language Mascot" />
-<img src="/assets/img/devicon--neovim.svg" alt="Neovim Logo" />
-<img src="/assets/img/devicon--python.svg" alt="Python Logo" />
-<img src="/assets/img/vscode-icons--gleam.svg" alt="Gleam Logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="Arch Linux Logo" style="width:64px;height:64px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash Logo" style="width:64px;height:64px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" alt="Elixir Logo" style="width:64px;height:64px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="The Go Language Gopher Mascot" style="width:64px;height:64px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim Logo" style="width:64px;height:64px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python Logo" style="width:64px;height:64px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" alt="Git Logo" style="width:64px;height:64px;" />
+<img src="https://cdn.jsdelivr.net/npm/vscode-symbols@0.0.19/src/icons/files/gleam.svg" alt="Gleam Logo" style="width:64px;height:64px;" />
+
