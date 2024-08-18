@@ -5,13 +5,13 @@ order: 4
 ---
 ---
 
-<a href="/assets/img/devicon--archlinux.svg" class="popup.left img-link">
-  <img src="/assets/img/devicon--archlinux.svg" alt="alt text" loading="lazy">
-</a>
-![alt text](/assets/img/devicon--bash.svg)
-![alt text](/assets/img/devicon--elixir.svg)
-![alt text](/assets/img/devicon--git.svg)
-![alt text](/assets/img/devicon--go.svg)
-![alt text](/assets/img/devicon--neovim.svg)
-![alt text](/assets/img/devicon--python.svg)
-![alt text](/assets/img/vscode-icons--gleam.svg)
+{::nomarkdown}
+<img src="/assets/img/devicon--archlinux.svg" alt="alt text">
+<img src="/assets/img/devicon--bash.svg" alt="alt text">
+<img src="/assets/img/devicon--elixir.svg" alt="alt text">
+<img src="/assets/img/devicon--git.svg" alt="alt text">
+<img src="/assets/img/devicon--go.svg" alt="alt text">
+<img src="/assets/img/devicon--neovim.svg" alt="alt text">
+<img src="/assets/img/devicon--python.svg" alt="alt text">
+<img src="/assets/img/vscode-icons--gleam.svg" alt="alt text">
+{:/nomarkdown}
