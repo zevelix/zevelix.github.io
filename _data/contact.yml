@@ -3,6 +3,9 @@
 - type: github
   icon: "fab fa-github"
 
+- type: hackerrank
+  icon: "fa-brands fa-hackerrank"
+  url: 'https://www.hackerrank.com/profile/zevelix'
 # - type: twitter
 #   icon: "fa-brands fa-x-twitter"
 
