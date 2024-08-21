@@ -10,7 +10,7 @@ On this page I plan to keep a high level overview of things I'm learning and/or 
 
 {% raw %}
 | Tool | Knowledge Status |
-| - | - |
+|:-:| - |
 | <img src="/assets/img/devicon--archlinux.svg" alt="Arch Linux"> | Arch Linux: My current distro |
 | <img src="/assets/img/devicon--bash.svg" alt="Bash Shell"> | Bash: I typically use Fish shell, but when it comes to scripting I want to be proficient in Bash |
 | <img src="/assets/img/devicon--git.svg" alt="Git"> | Git: I've just scratched the surface here. Learning as I go |
