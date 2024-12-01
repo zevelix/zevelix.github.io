@@ -17,11 +17,12 @@ table {
   width: 100%;
 }
 
-a.custom-no-shimmer img {
+#no-shimmer {
   background: none !important;
   box-shadow: none !important;
+  animation: none !important;
 }
 
-a.custom-no-shimmer {
-  animation: none !important;
+#no-shimmer ~ * {
+  animation: none !important; /* Disable any sibling effects */
 }
