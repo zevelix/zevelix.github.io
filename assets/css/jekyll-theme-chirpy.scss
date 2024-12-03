@@ -17,6 +17,10 @@ table {
   width: 100%;
 }
 
+.shimmer {
+  background: none
+}
+
 .shimmer::before {
   background: none
 }
