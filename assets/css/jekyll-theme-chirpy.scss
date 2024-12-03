@@ -17,12 +17,6 @@ table {
   width: 100%;
 }
 
-#no-shimmer {
-  background: none !important;
-  box-shadow: none !important;
-  animation: none !important;
-}
-
-#no-shimmer ~ * {
-  animation: none !important; /* Disable any sibling effects */
+.shimmer::before {
+  background: none
 }
